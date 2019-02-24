@@ -1,0 +1,14 @@
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\TareaAldryn1(DAO-DTO-UI).exe.config
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\TareaAldryn1(DAO-DTO-UI).exe
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\TareaAldryn1(DAO-DTO-UI).pdb
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\MySql.Data.dll
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\Google.Protobuf.dll
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\bin\Debug\MySql.Data.xml
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).csprojAssemblyReference.cache
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1_DAO_DTO_UI_.Form1.resources
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1_DAO_DTO_UI_.Properties.Resources.resources
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).csproj.GenerateResource.cache
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).csproj.CoreCompileInputs.cache
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).csproj.CopyComplete
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).exe
+C:\Users\JavierBuenfil\source\repos\TareaAldryn1(DAO-DTO-UI)\TareaAldryn1(DAO-DTO-UI)\obj\Debug\TareaAldryn1(DAO-DTO-UI).pdb
